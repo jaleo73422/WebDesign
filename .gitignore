@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 images
+
+test.html
+test.css
